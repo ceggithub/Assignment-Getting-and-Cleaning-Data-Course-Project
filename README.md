@@ -20,4 +20,4 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-And in CodeBook.md you will find a description of all the variables and how they were found
+Here in CodeBook.md you will find a description of all the variables and how they were found
